@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+visualization_env.egg-info/PKG-INFO
+visualization_env.egg-info/SOURCES.txt
+visualization_env.egg-info/dependency_links.txt
+visualization_env.egg-info/requires.txt
+visualization_env.egg-info/top_level.txt

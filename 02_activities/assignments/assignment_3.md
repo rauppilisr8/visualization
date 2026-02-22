@@ -8,22 +8,31 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    Microsoft Excel and Python/Matplotlib
 
     > Who is your intended audience? 
+    Regular Public who is interested to see the Gaseoline tax price changes over years
     
     > What information or message are you trying to convey with your visualization? 
+    Unleaded and Leaded regular fuel type tax trend over years.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+    Decluttered unnecessary columns by dropping them. Descriptive labels and Title was used.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    Historical data is SORTED to keep the tax year in ascending order for the reproducibility. The code is created using open source software (with Python code).
     
     > How did you ensure that your data visualization is accessible?  
+    The url of the datasource is included in the source code and pandas read_csv directly fetches the data from Open data source.
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+    Creates public awareness and encourages people to buy non-leaded fuel for reduced taxes and environment.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    This is a simple dataset with few features. The intention is to create awareness and benefit of purchasing non-leaded fuel. So the Aircraft fuel taxes, Premium fuel taxes and propane taxes have been discarded as majority of public buys regular fuel.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    Data inspection and Feature selection.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
