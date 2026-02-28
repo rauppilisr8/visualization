@@ -10,7 +10,12 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+     Good Visual -  https://public.tableau.com/app/profile/mcc.rpie/viz/AnnualDegreesandCertificates_16487718324400/Awards
+
+     Constrat colors used to show the stackings of the bar chart.
+     Legend is clearly defined.
+     Chart has descriptive title. Right type of chart used (i.e stacked bar graph to show the composition and bar graph is used to compare the numbers over the time). Axes are labelled and total values are provided for each year.
+     Intent of the chart is clearly presented.
 
 
 
@@ -21,7 +26,13 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Bad Visual - https://public.tableau.com/app/profile/jennifer.eneh/viz/PCOSDashboard_17297311153800/pcosdashboard
+
+      Too many visual in single dashboard. The graph is cluttered. Colors used are not consistent and not contrast. Hard to read due to different categories or units presented in same horizontal bar graph.
+      Re-Use of same color to display contrary ideas. example: Gray is used for Non-Exercisers in first graph and same gray is used for No Fast food eaters in second graph, that shows the impact of PCOS and its cause. 
+      Data or survey source is not cited, Sample size & methods are unknown.
+      The purpose of the chart is not clear.
+
 
 
 
