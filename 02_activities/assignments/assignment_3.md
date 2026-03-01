@@ -13,9 +13,9 @@
     > Who is your intended audience? 
     Regular Public who is interested to see the Gaseoline tax price changes over years
 
-    ![alt text](participation/A3_GasTaxRates_Excel_v2.jpg)
+    (participation/A3_GasTaxRates_Excel_v2.jpg)
 
-    ![alt text](participation/GaseolineTaxOverYears_withPython.png)
+    (participation/GaseolineTaxOverYears_withPython.png)
     
     > What information or message are you trying to convey with your visualization? 
     Unleaded and Leaded regular fuel type tax trend over years.
