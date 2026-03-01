@@ -8,19 +8,23 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-    Microsoft Excel and Python/Matplotlib
+    Microsoft Excel (Bar Graph) and Python/Matplotlib (Line Graph)
 
     > Who is your intended audience? 
     Regular Public who is interested to see the Gaseoline tax price changes over years
+
+    (participation/A3_GasTaxRates_Excel_v2.jpg)
+
+    (participation/GaseolineTaxOverYears_withPython.png)
     
     > What information or message are you trying to convey with your visualization? 
     Unleaded and Leaded regular fuel type tax trend over years.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    Decluttered unnecessary columns by dropping them. Descriptive labels and Title was used.
+    Decluttered unnecessary columns by dropping them. Descriptive labels and Title was used. Contrast colours were used for accessibility.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    Historical data is SORTED to keep the tax year in ascending order for the reproducibility. The code is created using open source software (with Python code).
+    Historical data is SORTED to keep the tax year in ascending order for the reproducibility. The code is created using open source software (with Python code) and commented. The excel graph is reproducible as the data used is included in screenshot.
     
     > How did you ensure that your data visualization is accessible?  
     The url of the datasource is included in the source code and pandas read_csv directly fetches the data from Open data source.
@@ -32,7 +36,7 @@
     This is a simple dataset with few features. The intention is to create awareness and benefit of purchasing non-leaded fuel. So the Aircraft fuel taxes, Premium fuel taxes and propane taxes have been discarded as majority of public buys regular fuel.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
-    Data inspection and Feature selection.
+    Data inspection and Feature selection. Open source libraries are used and their contributors are also contributed to this effort.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
